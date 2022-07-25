@@ -59,4 +59,9 @@ class SiteController extends Controller
         return 'yolo38';
     }
 
+    public function devHello()
+    {
+        return 'devHello';
+    }
+
 }
