@@ -41,4 +41,8 @@ class SiteController extends Controller
     {
         return 'yolo3';
     }
+    public function yolo4()
+    {
+        return 'yolo3';
+    }
 }
