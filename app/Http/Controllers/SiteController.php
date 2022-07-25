@@ -50,7 +50,7 @@ class SiteController extends Controller
 
     public function kelly()
     {
-        return 'I am Kelly :)';
+        return 'I am Kelly :(';
 
     }
 
