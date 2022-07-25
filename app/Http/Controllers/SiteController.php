@@ -12,7 +12,7 @@ class SiteController extends Controller
     public function hello333(){
         return 'hello333';
     }
-    
+
     public function hi()
     {
         return 'Hi';
@@ -20,5 +20,10 @@ class SiteController extends Controller
     public function yolo()
     {
         return 'Yolo';
+    }
+
+    public functoin yolo2()
+    {
+        
     }
 }
