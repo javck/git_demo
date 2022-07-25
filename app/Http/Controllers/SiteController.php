@@ -69,6 +69,9 @@ class SiteController extends Controller
         return 'devDone';
     }
 
-    public fkdjfkdfkfkdfjf
+    public function bugDone()
+    {
+        return 'bugs gone';
+    }
 
 }
