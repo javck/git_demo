@@ -45,9 +45,15 @@ class SiteController extends Controller
     {
         return 'yolo3';
     }
-        }
+
+
     public function yolo5()
     {
         return 'yolo3';
-    }
 }
+
+    public function kelly()
+    {
+        return 'I am Kelly :)';
+
+    }
