@@ -9,4 +9,7 @@ class SiteController extends Controller
     public function hello(){
         return 'Hello';
     }
+    public function hi() {
+        return 'Hi';
+    }
 }
