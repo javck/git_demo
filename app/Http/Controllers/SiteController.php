@@ -25,4 +25,8 @@ class SiteController extends Controller
     {
         return '1545451245154148514515487514851414514512541412';
     }
+    public function aaa()
+    {
+        return '1545451245';
+    }
 }
