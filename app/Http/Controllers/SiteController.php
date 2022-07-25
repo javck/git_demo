@@ -16,4 +16,8 @@ class SiteController extends Controller
     {
         return 'Yolo';
     }
+    public function welcome()
+    {
+        return 'Welcome back';
+    }
 }
