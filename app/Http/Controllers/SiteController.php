@@ -9,7 +9,8 @@ class SiteController extends Controller
         return 'Hello';
     }
 
-    public function hello333(){
+    public function hello333()
+    {
         return 'hello333';
     }
 
@@ -21,19 +22,27 @@ class SiteController extends Controller
     {
         return 'Yolo';
     }
+    public function welcome()
+    {
+        return 'Welcome back';
+    }
 
     public function yolo2()
     {
-    
+
     }
-        
+
     public function spcpcps()
     {
         return '1545451245154148514515487514851414514512541412';
     }
+<<<<<<< HEAD
 
     public function yolo3()
     {
         return 'yolo3';
     }
 }
+=======
+}
+>>>>>>> aab7fdcb15e5e6e5744ec59b1a933c3a3d8450f0
