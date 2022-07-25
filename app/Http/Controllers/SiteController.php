@@ -64,4 +64,9 @@ class SiteController extends Controller
         return 'devHello';
     }
 
+    public function devDone()
+    {
+        return 'devDone';
+    }
+
 }
