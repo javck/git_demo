@@ -37,8 +37,18 @@ class SiteController extends Controller
         return '1545451245154148514515487514851414514512541412';
     }
 
+<<<<<<< HEAD
     public function kelly()
     {
         return 'I am Kelly :)';
+=======
+    public function yolo3()
+    {
+        return 'yolo3';
+    }
+    public function yolo4()
+    {
+        return 'yolo3';
+>>>>>>> 240a7e795b2eeddf8cf99e3ff4244b8b221cc481
     }
 }
