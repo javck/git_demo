@@ -69,4 +69,6 @@ class SiteController extends Controller
         return 'devDone';
     }
 
+    public fkdjfkdfkfkdfjf
+
 }
