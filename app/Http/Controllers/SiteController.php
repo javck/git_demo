@@ -8,6 +8,11 @@ class SiteController extends Controller
     {
         return 'Hello';
     }
+
+    public function hello333(){
+        return 'hello333';
+    }
+
     public function hi()
     {
         return 'Hi';
