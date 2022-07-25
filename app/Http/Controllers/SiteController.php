@@ -16,4 +16,8 @@ class SiteController extends Controller
     {
         return 'Yolo';
     }
+    public function spcpcps()
+    {
+        return '1545451245154148514515487514851414514512541412';
+    }
 }
