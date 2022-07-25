@@ -36,13 +36,9 @@ class SiteController extends Controller
     {
         return '1545451245154148514515487514851414514512541412';
     }
-<<<<<<< HEAD
 
     public function yolo3()
     {
         return 'yolo3';
     }
 }
-=======
-}
->>>>>>> aab7fdcb15e5e6e5744ec59b1a933c3a3d8450f0
